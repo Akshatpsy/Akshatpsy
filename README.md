@@ -66,4 +66,3 @@ My personal portfolio and project overview.
 - [Portfolio](https://github.com/Akshatpsy/portfolio)
 
 
-This is intentionally clean: no large GIF, unnecessary skill icons, statistics widgets, or unrelated social links. It makes your profile communicate one clear message: **you build reliable backend and distributed systems**.
