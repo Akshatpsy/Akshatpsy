@@ -1,7 +1,4 @@
-Paste this into `Akshatpsy/Akshatpsy/README.md`:
-
-```markdown
-# Akshat Negi
+Akshat Negi
 
 Backend & distributed-systems engineer building reliable Python services,
 data pipelines, and fault-tolerant workers.
@@ -67,6 +64,6 @@ My personal portfolio and project overview.
 
 - [LinkedIn](https://www.linkedin.com/in/akshat-negi-57a07024b)
 - [Portfolio](https://github.com/Akshatpsy/portfolio)
-```
+
 
 This is intentionally clean: no large GIF, unnecessary skill icons, statistics widgets, or unrelated social links. It makes your profile communicate one clear message: **you build reliable backend and distributed systems**.
