@@ -15,8 +15,8 @@ Backend & Data Engineering developer. B.Tech CS graduate (2026), Graphic Era Hil
 
 ## Featured projects
 
-- **[Distributed Task Executor](LINK_HERE)** — AMQP-based task queue with DAG scheduling (Kahn's algorithm), retry logic, and a live dashboard.
-- **[Adaptive Resource Provisioning](https://github.com/Akshatpsy/Adaptive-resource-)** — Resource provisioning using Q-learning and Spider Monkey Optimization.
+- **[Distributed Task Executor](https://github.com/Akshatpsy/Distributed-task-executor)** — Fault-tolerant task execution engine with DAG scheduling, RabbitMQ workers, PostgreSQL state, leases, and idempotent retries.
+- **[Adaptive Resource Provisioning](https://github.com/Akshatpsy/Adaptive-resource-provisioning)** — Resource provisioning using Q-learning and Spider Monkey Optimization.
 
 ## Contact
 
