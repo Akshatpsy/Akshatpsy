@@ -1,68 +1,24 @@
-Akshat Negi
+# Akshat Negi
 
-Backend & distributed-systems engineer building reliable Python services,
-data pipelines, and fault-tolerant workers.
+Backend & Data Engineering developer. B.Tech CS graduate (2026), Graphic Era Hill University, Dehradun.
 
-I enjoy working on systems where correctness matters: durable state,
-message delivery, retries, crash recovery, database design, and clear APIs.
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## Featured projects
 
-### [Distributed Task Executor](https://github.com/Akshatpsy/task-executor)
-
-A distributed task execution engine built with Python, FastAPI, PostgreSQL,
-RabbitMQ, and WebSockets.
-
-- Dependency-aware task scheduling
-- Concurrent RabbitMQ workers
-- Worker heartbeats and lease-based recovery
-- Idempotent retries
-- Failure-injection testing
-- Live task-status updates
-
-### [Amrutam Backend](https://github.com/Akshatpsy/Amrutam-Backend)
-
-A modular healthcare-style backend built with NestJS, Fastify, Prisma,
-PostgreSQL, Redis, and TypeScript.
-
-- JWT authentication and refresh tokens
-- Doctor profiles and availability
-- Appointment booking and cancellation
-- Role-based access control
-- Health checks and structured backend modules
-
-### [Adaptive Resource Provisioning](https://github.com/Akshatpsy/Adaptive-resource-)
-
-A cloud auto-scaling simulation combining reinforcement learning with Spider
-Monkey Optimization.
-
-- Synthetic workload evaluation
-- Custom states, actions, and reward functions
-- Comparison with a Q-learning baseline
-- Streamlit dashboard for visualizing results
-
-### [Portfolio](https://github.com/Akshatpsy/portfolio)
-
-My personal portfolio and project overview.
-
-## Technical focus
-
-- **Languages:** Python, SQL, C, C++, TypeScript
-- **Backend:** FastAPI, Flask, NestJS, REST APIs, WebSockets
-- **Data:** PostgreSQL, MySQL, Prisma, schema design, normalization, Pandas
-- **Distributed systems:** RabbitMQ, background workers, leases, retries,
-  idempotency, crash recovery
-- **Tools:** Docker, Git, pytest, Streamlit, GitHub Actions
-
-## Current focus
-
-- Building reliable backend and data-platform systems
-- Improving testing and deployment workflows
-- Designing systems that remain understandable under failure
+- **[Distributed Task Executor](LINK_HERE)** — AMQP-based task queue with DAG scheduling (Kahn's algorithm), retry logic, and a live dashboard.
+- **[Adaptive Resource Provisioning](https://github.com/Akshatpsy/Adaptive-resource-)** — Resource provisioning using Q-learning and Spider Monkey Optimization.
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/akshat-negi-57a07024b)
-- [Portfolio](https://github.com/Akshatpsy/portfolio)
-
-
+- LinkedIn: [linkedin.com/in/akshat-negi-57a07024b](https://www.linkedin.com/in/akshat-negi-57a07024b)
+- Email: [akshatnegi322@gmail.com](mailto:akshatnegi322@gmail.com)
