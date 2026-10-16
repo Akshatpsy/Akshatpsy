@@ -1,24 +1,20 @@
-# Akshat Negi
+# Hi, I'm Akshat Negi
 
-Backend & Data Engineering developer. B.Tech CS graduate (2026), Graphic Era Hill University, Dehradun.
+Backend and data engineering developer from Dehradun, India.
+B.Tech Computer Science (2026), Graphic Era Hill University.
 
-## Stack
+I build backend systems in Python: APIs, databases, queues and data pipelines.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## Tech
+Python · FastAPI · Flask · SQL (PostgreSQL, MySQL) · Pandas · NumPy · C/C++ · AMQP
 
-## Featured projects
+## Projects
+- **Distributed Task Executor**: DAG scheduling, an AMQP queue between scheduler and workers, retries, dead-lettering, crash recovery, and a REST API with a live dashboard. [Repo](ADD-REPO-LINK) · [Live demo](https://task-executor-production-5643.up.railway.app)
+- **Remote Job Market Pipeline** (in progress): collects job postings from three APIs into one schema, with Postgres storage and data quality checks. [Repo](ADD-REPO-LINK)
 
-- **[Distributed Task Executor](https://github.com/Akshatpsy/Distributed-task-executor)** — Fault-tolerant task execution engine with DAG scheduling, RabbitMQ workers, PostgreSQL state, leases, and idempotent retries.
-- **[Adaptive Resource Provisioning](https://github.com/Akshatpsy/Adaptive-resource-provisioning)** — Resource provisioning using Q-learning and Spider Monkey Optimization.
+## Experience
+- Database Engineer Intern, Vosyn (Apr–Jun 2026)
+- Python Developer Intern, Live Zone Design (Aug–Nov 2025)
 
 ## Contact
-
-- LinkedIn: [linkedin.com/in/akshat-negi-57a07024b](https://www.linkedin.com/in/akshat-negi-57a07024b)
-- Email: [akshatnegi322@gmail.com](mailto:akshatnegi322@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/akshat-negi-57a07024b) · akshatnegi322@gmail.com
